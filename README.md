@@ -6,12 +6,6 @@
   <img align="right" alt="snow-pc-room" width="35%" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/dc2f20102886203.5f40a96b30bac.gif">
 </div>
 
- <div>
-  <a href="https://github.com/GabrielSnows">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSnows&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSnows&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-
 <br/>
   
 <div style="display: inline_block">
